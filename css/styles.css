@@ -1,0 +1,9 @@
+html, body{
+  box-sizing: border-box;
+}
+#mapa{
+  height: 500px;
+}
+#mapaR{
+  height: 250px;
+}
